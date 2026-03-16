@@ -67,20 +67,6 @@ python fomo_get_to_know.py
 
 ---
 
-## SDK Tutorials
-
-The [FoMo SDK](https://github.com/norlab-ulaval/fomo-sdk) provides additional tutorials for each sensor modality:
-
-| Tutorial | Python | Rust |
-|----------|:------:|:----:|
-| Audio data | ✅ | — |
-| Image data | ✅ | — |
-| Lidar data (`.bin` ↔ `.csv`) | ✅ | ✅ |
-| Radar data (polar ↔ Cartesian) | ✅ | ✅ |
-| Evaluation (SLAM) | ✅ | — |
-
----
-
 ## License
 
 The FoMo dataset is publicly available under the license described in `s3://fomo-dataset/LICENSE.txt`.
