@@ -2,7 +2,7 @@
 
 Companion notebooks and scripts for the **FoMo (Forêt Montmorency) Multi-Season Robot Navigation Dataset**, hosted on the [AWS Open Data Registry](https://registry.opendata.aws/fomo-dataset).
 
-> Boxan et al. (2026). *FoMo: A Multi-Season Dataset for Robot Navigation in Forêt Montmorency.* arXiv:2603.08433 [cs.RO]. https://arxiv.org/abs/2603.08433
+> Boxan M, Jeanson G, Krawciw A, et al. FoMo: A multi-season dataset for robot navigation in Forêt Montmorency. The International Journal of Robotics Research. 2026;0(0). doi:10.1177/02783649261491481
 
 ---
 
