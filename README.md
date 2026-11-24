@@ -1,6 +1,6 @@
 # FoMo Dataset Tutorials
 
-Companion notebooks and scripts for the **FoMo (Forêt Montmorency) Multi-Season Robot Navigation Dataset**, hosted on the [AWS Open Data Registry](https://registry.opendata.aws/fomo-dataset).
+Companion notebooks and scripts for the **FoMo (Forêt Montmorency) Multi-Season Robot Navigation Dataset**, hosted on the [AWS Open Data Registry](https://registry.opendata.aws/fomo-norlab).
 
 > Boxan M, Jeanson G, Krawciw A, et al. FoMo: A multi-season dataset for robot navigation in Forêt Montmorency. The International Journal of Robotics Research. 2026;0(0). doi:10.1177/02783649261491481
 
