@@ -76,14 +76,16 @@ The FoMo dataset is publicly available under the license described in `s3://fomo
 ## Citation
 
 ```bibtex
-@misc{Boxan2026_fomo,
-  title   = {{FoMo: A Multi-Season Dataset for Robot Navigation in For\^et Montmorency}},
-  author  = {Matěj Boxan and Gabriel Jeanson and Alexander Krawciw and Effie Daum
-             and Xinyuan Qiao and Sven Lilge and Timothy D. Barfoot and François Pomerleau},
-  year    = {2026},
-  eprint  = {2603.08433},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.RO},
-  url     = {https://arxiv.org/abs/2603.08433}
+@article{doi:10.1177/02783649261491481,
+    author = {Matěj Boxan and Gabriel Jeanson and Alexander Krawciw and Effie Daum and Xinyuan Qiao and Sven Lilge and Timothy D Barfoot and François Pomerleau},
+    title ={FoMo: A multi-season dataset for robot navigation in Forêt Montmorency},
+    journal = {The International Journal of Robotics Research},
+    volume = {0},
+    number = {0},
+    pages = {02783649261491481},
+    year = {2026},
+    doi = {10.1177/02783649261491481},
+    URL = {https://doi.org/10.1177/02783649261491481},
+    eprint = {https://doi.org/10.1177/02783649261491481},
 }
 ```
